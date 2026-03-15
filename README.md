@@ -6,3 +6,5 @@ Technical Execution:
 Platform: Google Cloud BigQuery
 
 Techniques: Pattern matching (LIKE), time-series filtering (DATE_SUB), and data aggregation.
+
+![Analysis Results](Results.jpeg)
